@@ -1,0 +1,2 @@
+# CampusIdleGoodsTradingWebsiteManagementSystem
+校园闲置物品交易网站管理系统
